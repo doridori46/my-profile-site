@@ -1,0 +1,31 @@
+# 의존성
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# 빌드 결과
+dist/
+build/
+*.bundle.js
+
+# IDE 및 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 환경 변수
+.env
+.env.local
+.env.*.local
+
+# 캐시
+.cache/
+.parcel-cache/
+
+# OS
+Thumbs.db
+.DS_Store
